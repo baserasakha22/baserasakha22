@@ -1,6 +1,7 @@
-- 👋 Hi, I’m basira sakha
+- 👋 Hi, I’m basira sakha...
 - 👀 I’m interested in Coding..
 - 🌱 I’m currently learning javaScript...
+  
 
 
 <!---
